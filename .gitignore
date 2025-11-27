@@ -52,3 +52,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+WebApiSample/WebApi/.DS_Store
+.DS_Store
